@@ -11,6 +11,15 @@ for termux
 ~# git clone https://github.com/ilmndwntr/grabbing-site-from-keyword.git
 ~# cd grabbing-site-from-keyword
 ~# python3 bing-tools.py
+
+for linux
+~# sudo apt update
+~# sudo apt install python3.8
+~# sudo apt install python3-pip
+~# sudo apt install git
+~# sudo git clone https://github.com/ilmndwntr/grabbing-site-from-keyword.git
+~# cd grabbing-site-from-keyword
+~# sudo python3 bing-tools.py
 NOTE: jika ada yg module nya blm di install, install dlu dengan pip
 ```
 Thank you :)
